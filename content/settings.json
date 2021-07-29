@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "nicode." },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
@@ -31,8 +31,7 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "" }
       ]
     },
     "featureToggles": {
