@@ -1,16 +1,16 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "React JS",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Teamwork",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/teamwork.png",
         "alt": ""
       }
     },
@@ -22,9 +22,9 @@
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Agile Methodologies",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/rugby-ball.png",
         "alt": ""
       }
     },

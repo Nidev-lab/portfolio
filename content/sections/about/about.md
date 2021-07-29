@@ -1,14 +1,15 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/Merida.jpg"
+imageAlt: "Merida"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hi! I'm Nico, 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+I'm 26 years old, I'm married and I have a pet (Merida, I'll leave you a photo). In my free time, I do amateur photography, and I really like to know new places.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Lover of soccer (Club Atletico Tucuman), literature, good cinema, and food (veggie).
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+I am a Full-stack Web developer, and some of the technologies I use are:
+Html, CSS, Scss, Sass, React js, Firebase, Node js, Mongo DB, and the following Methodologies: Scrum, Kanban, BEM.
 
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Follow me on <a href="https://www.instagram.com/nicode07/" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>@nicode07</u></a> (Instagram)
