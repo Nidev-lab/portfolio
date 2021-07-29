@@ -2,34 +2,47 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "👑 No virus",
+      "title": "Let's travel!",
+      "description": "Win a trip and help local tourism. By buying a six-pack you can win a stay and connect with much more than a destination.",
+      "tags": ["King", "Queen", "Travel"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/coronal.png",
         "alt": "Quick Setup"
       },
       "links": [
         {
           "type": "github",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "🍺 Important brewery",
+      "title": "Let's cook!",
+      "description": "To remain close to the food industry at this difficult time, Important brewery aims to help restaurants revive their kitchens. That's why we summon the chefs of your favorite restaurants to cook an iconic recipe from their menus.",
+      "tags": ["IGTV", "Brewery"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/REGISTRO.png",
         "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "🏚️ Cute project",
+      "title": "Interior Design",
+      "description": "We connect you with professionals of interior design so that you can think, develop and implement creative solutions in your spaces.",
+      "tags": ["Design", "Easy-2-Use"],
+      "image": {
+        "src": "../../images/brutalimg.png",
+        "alt": "Stella"
       },
       "links": [
         {
